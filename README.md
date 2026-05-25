@@ -21,3 +21,9 @@ Time can be set between 00:00 and 23:59. Decreasing a zere leads to a 9, 5 or 2 
 Start the clock by typing in thed left black area below the two first digits.
 
 <img width="1828" height="1035" alt="platine" src="https://github.com/user-attachments/assets/335260b3-f519-4b86-b76b-765de52bff57" />
+
+The diplay seems to be so cheap cause its a bad production. The two connectors on the left top have two equal signals connected. That makes no sense, perhaps a routing-error.
+The connector right bottom (is blended by a dummy-cap) can be connected to a lithium-battery. But it is not charged by USB. The function of the blended connector left of this is unknown.
+
+The displays use the TFT_eSPI-driver. The speed of writing to the display is much faster that the one used in the other Repository availble here.
+The display can be watch best from front.
