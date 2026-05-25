@@ -19,3 +19,5 @@ When starting, the numbers show four Zeros. By typing (with the pencil, or your 
 Typing or clicking on the lower flip-area descreses the number.
 Time can be set between 00:00 and 23:59. Decreasing a zere leads to a 9, 5 or 2 (depending on the digit).
 Start the clock by typing in thed left black area below the two first digits.
+
+<img width="1828" height="1035" alt="platine" src="https://github.com/user-attachments/assets/335260b3-f519-4b86-b76b-765de52bff57" />
